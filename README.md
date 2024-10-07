@@ -1,5 +1,6 @@
 # Studnt_management_web_app
 Tech Stack: React.js, Python, Flask Server, MySQL.
+
 •Worked on a project in developing a Full-Stack Student Management
 application for the client.
 •Implemented features using different React components for students,
